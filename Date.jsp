@@ -8,6 +8,7 @@
 <body>
   <p>Hello 3</p>
   <%
+    blabla
     Date date = new Date();
     SimpleDateFormat sdf = new SimpleDateFormat("HH:mm:ss");
     String time = sdf.format(date);
