@@ -6,7 +6,7 @@
 <head>
 </head>
 <body>
-  <p>Hello 1</p>
+  <p>Hello 2</p>
   <%
     Date date = new Date();
     SimpleDateFormat sdf = new SimpleDateFormat("HH:mm:ss");
